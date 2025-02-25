@@ -7,6 +7,6 @@ public class Bedo {
     int v;
     int ll;
     int asd;
-
+    int aaaa;
 
 }
