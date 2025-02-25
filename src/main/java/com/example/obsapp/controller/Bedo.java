@@ -1,6 +1,10 @@
 package com.example.obsapp.controller;
 
 public class Bedo {
-    int x;
     int y;
+    int z;
+    int k;
+    int v;
+
+
 }
