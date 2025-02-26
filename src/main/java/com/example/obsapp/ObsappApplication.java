@@ -8,6 +8,9 @@ public class ObsappApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ObsappApplication.class, args);
+
 	}
+
+
 
 }
